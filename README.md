@@ -29,13 +29,13 @@ Right now, I’m focused on mastering the fundamentals—writing clean code, und
 A browser-based calculator built with JavaScript, focusing on logic, state handling, and user interaction.  
 → [View Repository](#)
 
-### 🎨 Etch-a-Sketch
+### 🎨 Etch-a-Sketch *(In Progress)*
 A dynamic grid drawing app that responds to user interaction.  
 → [View Repository](#)
 
 ### ✊ Rock Paper Scissors
 A JavaScript game played in the browser console and later enhanced with a UI.  
-→ [View Repository](#)
+→ [View Repository](https://github.com/grumpyGrampsDev/rock-paper-scissors)
 
 ---
 
