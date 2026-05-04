@@ -1,74 +1,100 @@
-# 👋 Hey, I’m grumpyGramps!
+# grumpyGrampsDev
 
-I’m a self-taught developer currently working through **The Odin Project**, building a solid foundation in full stack web development.
+Self-taught developer working through The Odin Project with a focus on fundamentals and building things that actually work.
 
-Right now, I’m focused on mastering the fundamentals—writing clean code, understanding how things work under the hood, and building projects that actually function (not just look good).
-
----
-
-## 🚧 Current Focus
-
-- Completing the **Foundations Course**
-- Strengthening JavaScript fundamentals
-- Practicing DOM manipulation and problem-solving
+No shortcuts, no magic—just learning how the browser, the language, and the tools behave, and getting comfortable solving problems without guessing.
 
 ---
 
-## 🧠 What I’m Learning
+## Current Focus
 
-- HTML5 & semantic structure  
-- CSS (Flexbox, layout, responsiveness)  
-- JavaScript (fundamentals, DOM, event handling)  
-- Git & GitHub workflow  
-
----
-
-## 🔥 Featured Projects
-
-### 🧮 Calculator *(In Progress)*
-A browser-based calculator built with JavaScript, focusing on logic, state handling, and user interaction.  
-→ [View Repository](#)
-
-### 🎨 Etch-a-Sketch *(In Progress)*
-A dynamic grid drawing app that responds to user interaction.  
-→ [View Repository](#)
-
-### ✊ Rock Paper Scissors
-A JavaScript game played in the browser console and later enhanced with a UI.  
-→ [View Repository](https://github.com/grumpyGrampsDev/rock-paper-scissors)
+- Finishing the Foundations course  
+- Strengthening core JavaScript concepts  
+- Working directly with the DOM and browser event model  
 
 ---
 
-## 🧪 Practice & Exercises
+## What I’m Working With
 
-### 🗂️ GrampsSolutions
-A collection of smaller coding exercises and challenges from my learning journey.  
-→ [View Repository](https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions)
+- HTML (semantic structure and document flow)  
+- CSS (layout with Flexbox, responsive design)  
+- JavaScript (data types, control flow, functions, scope)  
+- DOM APIs (querying, event handling, updating the document)  
+- Git and GitHub (version control and workflow)  
 
 ---
 
-## 🗺️ Roadmap
+## Projects
 
-- Finish Foundations  
-- Complete Full Stack JavaScript Path  
-- Learn Node.js & backend development  
+### Calculator (Not Started)
+A browser-based calculator built with vanilla JavaScript.
+
+Focus areas:
+- Managing application state across chained operations  
+- Handling floating point precision edge cases  
+- Responding to both button input and keyboard events  
+- Updating the UI through DOM manipulation  
+
+Repository: #
+
+---
+
+### Etch-a-Sketch (Not Started)
+An interactive grid-based drawing tool rendered in the browser.
+
+Focus areas:
+- Dynamic grid generation and resizing  
+- Event-driven interaction using mouse events  
+- Incremental color changes and alternative color modes  
+- Efficient DOM updates for large grids  
+
+Repository: #
+
+---
+
+### Rock Paper Scissors (In Progress)
+Started as a console-based program and later rebuilt with a browser interface.
+
+Focus areas:
+- Transitioning from prompt/console logic to event-driven UI  
+- Using event listeners to handle user input  
+- Tracking game state across rounds  
+- Separating game logic from DOM updates  
+
+Repository: https://github.com/grumpyGrampsDev/rock-paper-scissors
+
+---
+
+## Practice Work
+
+### GrampsSolutions
+Small exercises and challenges completed while working through course material.
+
+These are mostly focused on reinforcing fundamentals—array methods, loops, problem decomposition, and basic algorithmic thinking.
+
+Repository: https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
+
+---
+
+## Roadmap
+
+- Complete Foundations  
+- Move into the Full Stack JavaScript path  
+- Learn Node.js and backend fundamentals  
 - Work with databases  
 - Build full-stack applications  
 
 ---
 
-## 🎯 Goals
+## Goals
 
-- Write clean, maintainable code  
-- Build real-world, portfolio-ready projects  
-- Become job-ready as a full stack developer  
-
----
-
-## 📊 Progress Tracker
-
-You can follow my full journey here:  
-👉 [Odin Project Journey Repo](https://github.com/grumpyGrampsDev/odin-project-journey)
+- Write code that is readable and maintainable  
+- Understand the underlying behavior of what I build  
+- Develop projects that reflect real problem-solving ability  
 
 ---
 
+## Progress
+
+Odin Project journey and notes:  
+https://github.com/grumpyGrampsDev/odin-project-journey
