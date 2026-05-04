@@ -2,7 +2,7 @@
 
 Self-taught developer working through The Odin Project with a focus on fundamentals and building things that actually work.
 
-No shortcuts, no magic.  Just learning how the browser, the language, and the tools behave while getting comfortable solving problems without guessing.
+No shortcuts, no magic.  Just learning how the browser, the language, and the tools behave while getting comfortable solving problems.
 
 ---
 
