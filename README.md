@@ -73,6 +73,7 @@ Small exercises and challenges completed while working through course material.
 These are mostly focused on reinforcing fundamentals—array methods, loops, problem decomposition, and basic algorithmic thinking.
 
 Repository: https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
+Repository: https://github.com/grumpyGrampsDev/javascript-exercises/tree/grampsSolutions
 
 ---
 
