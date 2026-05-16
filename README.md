@@ -61,7 +61,7 @@ Focus areas:
 - Tracking game state across rounds  
 - Separating game logic from DOM updates  
 
-Repository: https://github.com/grumpyGrampsDev/rock-paper-scissors
+Repository: https://github.com/grumpyGrampsDev/rock-paper-scissors  
 Live Preview: https://grumpygrampsdev.github.io/rock-paper-scissors
 
 
