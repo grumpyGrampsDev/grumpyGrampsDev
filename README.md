@@ -62,6 +62,8 @@ Focus areas:
 - Separating game logic from DOM updates  
 
 Repository: https://github.com/grumpyGrampsDev/rock-paper-scissors
+Live Preview: https://grumpygrampsdev.github.io/rock-paper-scissors
+
 
 ---
 
