@@ -205,15 +205,10 @@ Continuing to grow as a developer through:
 
 # Transparency
 
-# Transparency
-
 I believe in building openly and documenting the process behind the work.
 
 I use modern tools, including AI-assisted tools, as part of my workflow for exploration, feedback, and organization. These tools support my process, but the ideas, decisions, implementation, and responsibility for these projects remain my own.
 
-More details:
-
-[Transparency Statement](./TRANSPARENCY.md)
 More details:
 
 [Transparency Statement](./TRANSPARENCY.md)
