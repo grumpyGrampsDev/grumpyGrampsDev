@@ -214,9 +214,3 @@ More details:
 [Transparency Statement](./TRANSPARENCY.md)
 
 ---
-
-# Connect
-
-GitHub:
-
-https://github.com/grumpyGrampsDev
