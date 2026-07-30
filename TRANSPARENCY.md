@@ -1,71 +1,23 @@
 # Transparency Statement
 
-## Building in the Open
+## Why This Exists
 
-I believe good work is built through understanding and honest documentation of the process. This profile represents my own learning, experimentation, writing, and development journey. I use modern tools as part of that process, including AI-assisted tools for exploration, feedback, organization, and refinement.
+I believe it's important to be transparent about how I work. I use modern tools, including AI, throughout my workflow for brainstorming, discussion, editing, organization, and feedback. They're part of my process because they help me think more clearly and communicate more effectively. Like any other tool, though, they don't replace understanding. The direction, decisions, implementation, and responsibility for every project in this profile remain my own.
 
-These tools are used as collaborators in the learning process, not replacements for understanding or ownership. The ideas, direction, decisions, implementation choices, and final responsibility for these projects remain my own.
+## How I Use AI
 
----
+AI is a conversation partner more than a code generator. I use it to explore ideas, question assumptions, improve documentation, organize information, and explain unfamiliar concepts. It often helps me see alternatives or refine my thinking, but it doesn't make decisions for me. I don't use AI as a substitute for learning, testing, debugging, or understanding the systems I'm building.
 
-## AI-Assisted Workflow
+## Learning vs. Personal Projects
 
-AI tools may be used to help with:
+Some repositories document my progress through structured learning, such as The Odin Project. Those exercises were completed as practice. The objective wasn't simply to arrive at a working solution, but to develop the ability to solve problems independently.
 
-- Exploring ideas and possibilities
-- Asking questions and challenging assumptions
-- Reviewing structure, clarity, and organization
-- Identifying areas for improvement
-- Helping document decisions and processes
-- Supporting learning through explanation and discussion
+Other repositories, such as The Guide and The Language of Music, are long-term personal projects. Those involve research, writing, design, reflection, and continual revision. AI is part of that creative process, much like discussing ideas with another person. The vision, values, and final decisions remain my own.
 
-The role of these tools is similar to having an additional perspective available during the creative process.
+## Ownership
 
-They do not replace:
+Tools can suggest ideas. Tools can offer feedback. Tools can broaden perspective.
 
-- Learning the underlying concepts
-- Making technical and creative decisions
-- Writing and understanding the work
-- Testing and validating solutions
-- Taking responsibility for the final result
+They cannot take ownership.
 
----
-
-## Learning Projects
-
-Some repositories represent structured learning exercises completed while following established curriculum. For example, my work through The Odin Project was completed as part of a guided learning path focused on building foundational programming skills.
-
-Those exercises were approached as hands-on practice:
-
-- Writing the code myself
-- Solving the problems presented
-- Debugging my own mistakes
-- Developing programming fundamentals
-
-AI assistance was not used as a substitute for completing those exercises or understanding the concepts being taught. The purpose of those projects was to build foundational ability through direct practice.
-
----
-
-## Personal Projects
-
-My personal projects represent a different stage of the learning process.
-
-Projects such as:
-
-- The Guide
-- The Language of Music
-- Documentation and learning frameworks
-
-are ongoing explorations that involve research, writing, design, reflection, and iteration. For these projects, AI-assisted tools may be used as part of the creative and organizational process. They help me explore ideas, refine communication, and examine decisions from different perspectives. However, the vision, purpose, values, and final decisions behind these projects come from my own work and responsibility.
-
----
-
-## A Note on Authorship
-
-Using tools does not remove the responsibility of the builder.
-
-A tool can suggest.
-A tool can question.
-A tool can provide perspective.
-
-But understanding, judgment, creativity, and stewardship remain human responsibilities. The goal is not simply to produce more output. It is to learn deeply and create things that are genuinely useful.
+Understanding, judgment, creativity, and responsibility belong to the person doing the work. That's the standard I try to hold myself to throughout every repository on this profile.
