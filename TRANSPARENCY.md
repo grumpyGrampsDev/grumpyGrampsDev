@@ -2,13 +2,9 @@
 
 ## Building in the Open
 
-I believe good work is built through understanding, intentional practice, and honest documentation of the process.
+I believe good work is built through understanding and honest documentation of the process. This profile represents my own learning, experimentation, writing, and development journey. I use modern tools as part of that process, including AI-assisted tools for exploration, feedback, organization, and refinement.
 
-This profile represents my own learning, experimentation, writing, and development journey. I use modern tools as part of that process, including AI-assisted tools for exploration, feedback, organization, and refinement.
-
-These tools are used as collaborators in the learning process, not replacements for understanding or ownership.
-
-The ideas, direction, decisions, implementation choices, and final responsibility for these projects remain my own.
+These tools are used as collaborators in the learning process, not replacements for understanding or ownership. The ideas, direction, decisions, implementation choices, and final responsibility for these projects remain my own.
 
 ---
 
@@ -37,9 +33,7 @@ They do not replace:
 
 ## Learning Projects
 
-Some repositories represent structured learning exercises completed while following established curriculum.
-
-For example, my work through The Odin Project was completed as part of a guided learning path focused on building foundational programming skills.
+Some repositories represent structured learning exercises completed while following established curriculum. For example, my work through The Odin Project was completed as part of a guided learning path focused on building foundational programming skills.
 
 Those exercises were approached as hands-on practice:
 
@@ -48,9 +42,7 @@ Those exercises were approached as hands-on practice:
 - Debugging my own mistakes
 - Developing programming fundamentals
 
-AI assistance was not used as a substitute for completing those exercises or understanding the concepts being taught.
-
-The purpose of those projects was to build foundational ability through direct practice.
+AI assistance was not used as a substitute for completing those exercises or understanding the concepts being taught. The purpose of those projects was to build foundational ability through direct practice.
 
 ---
 
@@ -64,11 +56,7 @@ Projects such as:
 - The Language of Music
 - Documentation and learning frameworks
 
-are ongoing explorations that involve research, writing, design, reflection, and iteration.
-
-For these projects, AI-assisted tools may be used as part of the creative and organizational process. They help me explore ideas, refine communication, and examine decisions from different perspectives.
-
-However, the vision, purpose, values, and final decisions behind these projects come from my own work and responsibility.
+are ongoing explorations that involve research, writing, design, reflection, and iteration. For these projects, AI-assisted tools may be used as part of the creative and organizational process. They help me explore ideas, refine communication, and examine decisions from different perspectives. However, the vision, purpose, values, and final decisions behind these projects come from my own work and responsibility.
 
 ---
 
@@ -80,8 +68,4 @@ A tool can suggest.
 A tool can question.
 A tool can provide perspective.
 
-But understanding, judgment, creativity, and stewardship remain human responsibilities.
-
-The goal is not simply to produce more output.
-
-The goal is to learn deeply, build intentionally, and create things that are genuinely useful.
+But understanding, judgment, creativity, and stewardship remain human responsibilities. The goal is not simply to produce more output. It is to learn deeply and create things that are genuinely useful.

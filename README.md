@@ -1,30 +1,20 @@
 # grumpyGrampsDev
 
-I am a self-taught developer focused on understanding how things work, building intentionally, and creating tools that serve people.
+I enjoy taking things apart to understand how they work, then putting them back together a little better.
 
-My approach is simple:
-
-**No shortcuts. No magic.**
-
-I believe the best way to build is to understand the foundations underneath what we create — the language, the tools, the systems, and the people using them.
+That curiosity has taken me through manufacturing, operations, and now software development. I don't think of this GitHub as a portfolio as much as a record of my progress. If a repository exists here, it's because I spent time trying to understand something well enough to build it.
 
 ---
 
 ## Current Focus
 
-I am currently building two long-term projects that reflect my approach to learning, documentation, and creation.
+Most of my time is currently spent on two long-term projects.
 
----
+### The Guide
 
-## The Guide
-
-A version-controlled companion for reading, studying, praying, and being formed by Scripture.
-
-The Guide is a living collection of notes, reflections, practices, and principles built around a simple rhythm:
+The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added, old ideas are revised, and the structure continues to evolve alongside my own understanding.
 
 **Scripture → Prayer → Reflection → Remembrance → Walking**
-
-The goal is not to replace Scripture, but to create a framework that encourages careful reading, honest reflection, and faithful application.
 
 Repository:
 
@@ -32,19 +22,9 @@ https://github.com/grumpyGrampsDev/the-guide
 
 ---
 
-## The Language of Music
+### The Language of Music
 
-A curriculum exploring music theory, guitar, and musical understanding through discovery.
-
-The goal is to approach music like learning a language:
-
-- Understanding patterns
-- Developing vocabulary
-- Learning to listen
-- Building intuition
-- Connecting theory with practice
-
-Rather than presenting music as a collection of rules to memorize, this project focuses on helping learners discover why music works.
+The Language of Music grew out of a simple observation: music often feels harder than it needs to be. The curriculum slows the learning process down and encourages learners to understand before they memorize. The goal isn't simply to play music. It's to become fluent in its language.
 
 Repository:
 
@@ -52,165 +32,34 @@ https://github.com/grumpyGrampsDev/language-of-music
 
 ---
 
-Together, these projects represent two expressions of the same philosophy:
+## Development Journey
 
-**Learn deeply. Practice intentionally. Reflect honestly. Build things that help others grow.**
+Software development is simply the next system I've wanted to understand. I started with The Odin Project because it emphasizes fundamentals instead of frameworks. That approach fit naturally with how I already liked to learn.
 
----
-
-# Development Journey
-
-My development journey began through The Odin Project, where I focused on learning the foundations of web development from first principles.
-
-That journey taught me the importance of:
-
-- Breaking large problems into smaller pieces
-- Understanding systems instead of copying solutions
-- Building projects that demonstrate actual understanding
-- Documenting the process along the way
-
-You can see the early stages of that journey here:
+Early work from that journey is collected here:
 
 https://github.com/grumpyGrampsDev/odin-project-journey
 
 ---
 
-# Technical Foundations
+## Other Projects
 
-I continue to develop my skills through hands-on learning and building.
-
-Current areas of focus:
-
-- HTML (semantic structure and document flow)
-- CSS (layout, Flexbox, responsive design)
-- JavaScript (data types, control flow, functions, scope)
-- DOM APIs (querying, events, and updating the document)
-- Git and GitHub (version control and workflow)
-- Full-stack development concepts
+Not every repository here is meant to be polished. Some exist because they solved a problem I was having. Others capture a period of learning that I wanted to preserve before moving on. Looking back through them is a good reminder that progress usually happens a little at a time.
 
 ---
 
-# Projects
+## Philosophy
 
-## The Guide
+I like understanding things before I use them.
 
-A digital garden for spiritual formation and Scripture study.
-
-Built around the belief that growth happens through consistent practice, reflection, and remembrance.
-
-Repository:
-
-https://github.com/grumpyGrampsDev/the-guide
+Whether I'm learning a programming language, studying Scripture, or working through music theory, I find that the foundations are almost always worth the effort. The goal isn't mastery overnight. It's understanding something a little better than I did yesterday.
 
 ---
 
-## The Language of Music
+## Transparency
 
-A discovery-driven approach to learning music theory and guitar.
-
-Focus areas:
-
-- Understanding the language of music
-- Exploring patterns across the fretboard
-- Connecting theory and practical playing
-- Developing musical awareness through curiosity and practice
-
-Repository:
-
-https://github.com/grumpyGrampsDev/language-of-music
-
----
-
-## Rock Paper Scissors
-
-A browser-based JavaScript project originally built as a console application and later rebuilt with an interactive interface.
-
-Focus areas:
-
-- Event-driven programming
-- DOM manipulation
-- Managing application state
-- Separating logic from presentation
-
-Repository:
-
-https://github.com/grumpyGrampsDev/rock-paper-scissors
-
-Live Preview:
-
-https://grumpygrampsdev.github.io/rock-paper-scissors
-
----
-
-# Practice Work
-
-## GrampsSolutions
-
-Small exercises and challenges completed while working through course material.
-
-These projects focus on reinforcing fundamentals:
-
-- Array methods
-- Loops
-- Functions
-- Problem decomposition
-- Basic algorithmic thinking
-
-Repositories:
-
-https://github.com/grumpyGrampsDev/tod-css-exercises/tree/GrampsSolutions
-
-https://github.com/grumpyGrampsDev/javascript-exercises/tree/grampsSolutions
-
----
-
-# Philosophy
-
-I build things slowly and intentionally.
-
-I value:
-
-- Understanding over imitation
-- Fundamentals over shortcuts
-- Documentation over mystery
-- Curiosity over completion
-- Consistent practice over perfection
-
-The best projects are not just things we finish.
-
-They are things that teach us how to see.
-
----
-
-# Roadmap
-
-Continuing to grow as a developer through:
-
-- Completing The Odin Project Full Stack JavaScript path
-- Learning backend development
-- Working with databases
-- Building full-stack applications
-- Exploring mobile development
-
----
-
-# Goals
-
-- Write code that is readable and maintainable
-- Understand the underlying behavior of what I build
-- Create projects that reflect genuine problem-solving ability
-- Build tools and resources that help others learn and grow
-
----
-
-# Transparency
-
-I believe in building openly and documenting the process behind the work.
-
-I use modern tools, including AI-assisted tools, as part of my workflow for exploration, feedback, and organization. These tools support my process, but the ideas, decisions, implementation, and responsibility for these projects remain my own.
+I use modern tools, including AI, throughout my workflow for brainstorming, editing, and feedback. The ideas, implementation, and decisions behind these projects remain my own.
 
 More details:
 
 [Transparency Statement](./TRANSPARENCY.md)
-
----
