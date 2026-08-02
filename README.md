@@ -8,6 +8,12 @@ That curiosity has taken me through manufacturing, operations, and now software 
 
 Most of my time is currently spent on three long-term projects.
 
+### The Language of Music
+
+The Language of Music grew out of a simple observation: music often feels harder than it needs to be. The curriculum slows the learning process down and encourages learners to understand before they memorize. The goal isn't simply to play music. It's to become fluent in its language.
+
+**Repository:** [The Language of Music](https://github.com/grumpyGrampsDev/language-of-music)
+
 ### The Guide
 
 The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added, old ideas are revised, and the structure continues to evolve alongside my own understanding.
@@ -15,12 +21,6 @@ The Guide grew out of my own Bible reading and journaling. It's become a version
 **Scripture → Prayer → Reflection → Remembrance → Walking**
 
 **Repository:** [The Guide](https://github.com/grumpyGrampsDev/the-guide)
-
-### The Language of Music
-
-The Language of Music grew out of a simple observation: music often feels harder than it needs to be. The curriculum slows the learning process down and encourages learners to understand before they memorize. The goal isn't simply to play music. It's to become fluent in its language.
-
-**Repository:** [The Language of Music](https://github.com/grumpyGrampsDev/language-of-music)
 
 ### The Current
 
