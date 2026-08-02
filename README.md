@@ -1,16 +1,16 @@
 # grumpyGrampsDev
 
-I enjoy taking things apart to understand how they work, then putting them back together a little better.
+I enjoy understanding how things work, then building tools that help others understand them too.
 
 That curiosity has taken me through manufacturing, operations, and now software development. I don't think of this GitHub as a portfolio as much as a record of my progress. If a repository exists here, it's because I spent time trying to understand something well enough to build it.
 
 ## What I'm Working On
 
-Most of my time is currently spent on two long-term projects.
+Most of my time is currently spent on three long-term projects.
 
 ### The Guide
 
-The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added, old ideas are revised, and the structure continues to evolve alongside my own understanding.
+The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added. Old ideas are revised. The structure continues to evolve alongside my own understanding.
 
 **Scripture → Prayer → Reflection → Remembrance → Walking**
 
@@ -21,6 +21,14 @@ https://github.com/grumpyGrampsDev/the-guide
 The Language of Music grew out of a simple observation: music often feels harder than it needs to be. The curriculum slows the learning process down and encourages learners to understand before they memorize. The goal isn't simply to play music. It's to become fluent in its language.
 
 https://github.com/grumpyGrampsDev/language-of-music
+
+### The Current
+
+The Current began when I returned to the water.
+
+I'd spent years surfing and swimming, but this time I wanted to understand what the water could teach me. It has become a place to collect observations, principles, and lessons discovered while learning to move through it with greater intention. Some reach beyond swimming, but they all begin in the water.
+
+https://github.com/grumpyGrampsDev/the-current
 
 ## How I Got Here
 
