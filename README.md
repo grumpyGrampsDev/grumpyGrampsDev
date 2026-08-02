@@ -10,17 +10,17 @@ Most of my time is currently spent on three long-term projects.
 
 ### The Guide
 
-The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added. Old ideas are revised. The structure continues to evolve alongside my own understanding.
+The Guide grew out of my own Bible reading and journaling. It's become a version-controlled companion for reading Scripture carefully and developing habits that last. The work changes as I do. New notes are added, old ideas are revised, and the structure continues to evolve alongside my own understanding.
 
 **Scripture → Prayer → Reflection → Remembrance → Walking**
 
-https://github.com/grumpyGrampsDev/the-guide
+**Repository:** [The Guide](https://github.com/grumpyGrampsDev/the-guide)
 
 ### The Language of Music
 
 The Language of Music grew out of a simple observation: music often feels harder than it needs to be. The curriculum slows the learning process down and encourages learners to understand before they memorize. The goal isn't simply to play music. It's to become fluent in its language.
 
-https://github.com/grumpyGrampsDev/language-of-music
+**Repository:** [The Language of Music](https://github.com/grumpyGrampsDev/language-of-music)
 
 ### The Current
 
@@ -28,15 +28,14 @@ The Current began when I returned to the water.
 
 I'd spent years surfing and swimming, but this time I wanted to understand what the water could teach me. It has become a place to collect observations, principles, and lessons discovered while learning to move through it with greater intention. Some reach beyond swimming, but they all begin in the water.
 
-https://github.com/grumpyGrampsDev/the-current
+**Repository:** [The Current](https://github.com/grumpyGrampsDev/the-current)
 
 ## How I Got Here
 
 Software development is simply the next system I've wanted to understand. I started with The Odin Project because it emphasizes fundamentals instead of frameworks. That approach fit naturally with how I already liked to learn.
 
-Early work from that journey is collected here:
-
-https://github.com/grumpyGrampsDev/odin-project-journey
+Early work from that journey is collected in my
+[Odin Project Journey](https://github.com/grumpyGrampsDev/odin-project-journey) repository.
 
 Not every repository here is meant to be polished. Some exist because they solved a problem I was having. Others capture a period of learning that I wanted to preserve before moving on. Looking back through them is a good reminder that progress usually happens a little at a time.
 
