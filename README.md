@@ -24,9 +24,7 @@ The Language of Music grew out of a simple observation: music often feels harder
 
 ### The Current
 
-The Current began when I returned to the water.
-
-I'd spent years surfing and swimming, but this time I wanted to understand what the water could teach me. It has become a place to collect observations, principles, and lessons discovered while learning to move through it with greater intention. Some reach beyond swimming, but they all begin in the water.
+The Current began when I returned to the water. I'd spent years surfing and swimming, but this time I wanted to understand what the water could teach me. It has become a place to collect observations, principles, and lessons discovered while learning to move through it with greater intention. Some reach beyond swimming, but they all begin in the water.
 
 **Repository:** [The Current](https://github.com/grumpyGrampsDev/the-current)
 
