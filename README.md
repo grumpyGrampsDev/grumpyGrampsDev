@@ -45,7 +45,7 @@ Whether I'm learning a programming language, studying Scripture, or working thro
 
 ## Transparency
 
-I use modern tools, including AI, throughout my workflow for brainstorming, editing, and feedback. The ideas, implementation, and decisions behind these projects remain my own.
+I use modern tools, including AI, as part of the process. They help me explore and refine ideas as I build. The questions I pursue and the work I create come from my own curiosity. The choices along the way come from my own judgment.
 
 More details:
 
